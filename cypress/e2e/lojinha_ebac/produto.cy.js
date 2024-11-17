@@ -8,7 +8,7 @@ describe('Funcionalidades: Produto', () => {
         
         var email = faker.internet.email();
 
-        cy.visit('http://lojaebac.ebaconline.art.br/?');
+        cy.visit('');
         cy.get('.icon-user-unfollow').click();
         cy.get('#reg_email').type(email);
         cy.get('#reg_password').type('P123456#');
