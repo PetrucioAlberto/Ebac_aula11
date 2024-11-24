@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
  // usado no Login
  
  Cypress.Commands.add('Site', () => {
@@ -41,6 +42,8 @@
 
 
 =======
+=======
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 
 Cypress.Commands.add('login', (usuario, senha) => { 
 
@@ -84,4 +87,7 @@ Cypress.Commands.add('DetalhesConta', (nome, sobrenome) => {
        
 });
 
+<<<<<<< HEAD
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
+=======
 >>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228

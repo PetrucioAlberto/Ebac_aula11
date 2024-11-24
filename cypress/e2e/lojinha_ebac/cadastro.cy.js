@@ -3,14 +3,18 @@
 import { faker } from '@faker-js/faker';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 var usuario = faker.internet.email();
 var senha = faker.internet.password(); 
+=======
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 =======
 >>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 
 describe('Funcionalidades: cadastro', () => {
 
     beforeEach('Deve visitar o site', () => {
+<<<<<<< HEAD
 <<<<<<< HEAD
         cy.Site();   
     });
@@ -31,6 +35,8 @@ describe('Funcionalidades: cadastro', () => {
         cy.get('.woocommerce-MyAccount-content > :nth-child(2)').should('contain', 'Olá,')       
     });
 =======
+=======
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
         cy.visit('');
 
     });
@@ -107,5 +113,8 @@ describe('Funcionalidades: cadastro', () => {
 
 
 
+<<<<<<< HEAD
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
+=======
 >>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 });

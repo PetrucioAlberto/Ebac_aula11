@@ -3,6 +3,7 @@
 import { faker } from '@faker-js/faker';
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 const Perfil = require('../../fixtures/perfil.json')
 
 var usuario = faker.internet.email();
@@ -28,6 +29,8 @@ it('Deve criar o cadastro customizado', () => {
 
 
 =======
+=======
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 describe('Funcionalidades: cadastro', () => {
 
     beforeEach('Deve visitar o site', () => {
@@ -64,5 +67,8 @@ describe('Funcionalidades: cadastro', () => {
     
         })
     })
+<<<<<<< HEAD
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
+=======
 >>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
     

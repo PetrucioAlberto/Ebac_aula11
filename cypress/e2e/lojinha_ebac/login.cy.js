@@ -5,6 +5,7 @@ const Perfil = require('../../fixtures/perfil.json')
 describe('Funcionalidades: login', () => {
     beforeEach('Deve visitar o site', () => {
 <<<<<<< HEAD
+<<<<<<< HEAD
         cy.Site();   
     });
 
@@ -46,6 +47,8 @@ describe('Funcionalidades: login', () => {
 
 
 =======
+=======
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
         cy.visit('');
         cy.login('petrucio1@petrucio.com.br', 'P123456#')
     });
@@ -81,5 +84,8 @@ describe('Funcionalidades: login', () => {
 
 
 });
+<<<<<<< HEAD
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
+=======
 >>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 

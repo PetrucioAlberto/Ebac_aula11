@@ -2,6 +2,7 @@
 
 import { faker } from '@faker-js/faker';
 <<<<<<< HEAD
+<<<<<<< HEAD
 import produtoPage from "../../support/PageObjects/produto.Page";
 const Perfil = require('../../fixtures/perfil.json');
 //const produtos = require('../../fixtures/produtos.json');
@@ -77,6 +78,8 @@ describe('Funcionalidades: login', () => {
            
         });
 =======
+=======
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 
 describe('Funcionalidades: Produto', () => {
 
@@ -95,6 +98,9 @@ describe('Funcionalidades: Produto', () => {
         cy.get('#primary-menu > .menu-item-629 > a').click();
         cy.get('.product-block').contains('Arcadio Gym Short').click();
         cy.screenshot();
+<<<<<<< HEAD
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
+=======
 >>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
     });
 });
@@ -103,7 +109,10 @@ describe('Funcionalidades: Produto', () => {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
    
+=======
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 =======
 >>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 
@@ -111,8 +120,11 @@ describe('Funcionalidades: Produto', () => {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   
 
 
+=======
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
 =======
 >>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
