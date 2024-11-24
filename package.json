@@ -1,0 +1,21 @@
+{
+  "name": "aula_cypress_ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+<<<<<<< HEAD
+    "test": "npx cypress run --browser chrome",
+    "cy:dash": "npx cypress run --record --key 0a211496-e94a-412b-9075-7dc0c16445b4"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> 71f9760d3bc4b86d6f32d6a6149f7c43e121a228
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "cypress": "^13.6.0"
+  }
+}

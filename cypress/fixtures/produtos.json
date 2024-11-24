@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "M",
+        "cor": "green",
+        "qtd": 2
+      },
+      {
+        "nome": "Mach Street Sweatshirt",
+        "tamanho": "L",
+        "cor": "Red",
+        "qtd": 5
+      },
+      {
+        "nome": "Apollo Running Short",
+        "tamanho": "33",
+        "cor": "Black",
+        "qtd": 2
+      }
+
+
+]
